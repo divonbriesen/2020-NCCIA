@@ -61,6 +61,7 @@ and confirmed before the session.
     - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
     - here's micky mouse...
     - put your name here with userid and date and time
+    - Marlene Roden userid: marleneandersonroden was here 3.10.2020 at 10:00 am
     - and your name here
     - and your name here...
   - save and check github desktop - notice conflicts - to fix first pull origin, then view in visual studio code, and merge. Save, commit, and push origin. 
