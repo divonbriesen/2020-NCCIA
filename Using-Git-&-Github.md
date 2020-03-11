@@ -52,21 +52,32 @@ and confirmed before the session.
 -- note how the changes show up in github desktop. Commit changes (saves to repo) and push origin (pushes up to server). You cannot commit more than one file without updating the note (single files don't require a note/summary).
 -- view your repo on it's website: http:/yourid.github.io/yourreponame
 - Collaborate!
--- With me:
----Start by cloning THIS repo (the one you're reading) - copy the ULR (start by going to github.com/divonbriesen and finding the repo, then copy the URL and paste it into the URL window of github desktop): https://github.com/divonbriesen/2020-NCCIA 
---- pull origin (copy down to your computer). 
---- open in visual studio code
---- edit RIGHT HERE in the read.me to add your name:
----- ATTENDEES (I use this with students:
------ D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
------ put your name here with userid and date and time
------ and your name here
------ and your name here...
----- save and check github desktop - notice conflicts - to fix first pull origin, then view in visual studio code, and merge. Save, commit, and push origin. 
--- Need to invite collaborators (settings, collaborate- need to add users by their github id's). 
---- Use the id's from here to invite a couple people
---- They need to accept the invite - and then they'll be able to collaborate on your repo
---- add a file 
---- make a modification (i.e. go to the readme file and leave your mark :)) 
+  - With me:
+  - Start by cloning THIS repo (the one you're reading) - copy the ULR (start by going to github.com/divonbriesen and finding the repo, then copy the URL and paste it into the URL window of github desktop): https://github.com/divonbriesen/2020-NCCIA 
+  - pull origin (copy down to your computer). 
+  - open in visual studio code
+  - edit RIGHT HERE in the read.me to add your name:
+  - ATTENDEES (I use this with students:
+    - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
+    - put your name here with userid and date and time
+    - and your name here
+    - and your name here...
+  - save and check github desktop - notice conflicts - to fix first pull origin, then view in visual studio code, and merge. Save, commit, and push origin. 
+    - Need to invite collaborators (settings, collaborate- need to add users by their github id's). 
+    - Use the id's from here to invite a couple people
+    - They need to accept the invite - and then they'll be able to collaborate on your repo
+    - add a file 
+    - make a modification (i.e. go to the readme file and leave your mark :)) 
 
 ## SUMMARY
+- Github and git are necessary skills in todays IT workforce
+- these tools are free and offer a lot of great features:
+  - collaboration
+  - version control
+  - web tools (webspace, wikis, etc...)
+  - synchronization across devices
+  - managing conflicts
+  - tracking and sharing progress
+- it can seem initimidating, but after use, it quickly becomes routine, and beats any other alternatives. 
+- the integration with vs code is pretty cool
+- you can make one as a class repository- imagine putting everything in github instead of within the LMS. It has many of the same features as a content management system, even though it's geared towards software projects. 
