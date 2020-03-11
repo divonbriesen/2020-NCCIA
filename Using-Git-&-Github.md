@@ -60,7 +60,7 @@ and confirmed before the session.
   - ATTENDEES (I use this with students:
     - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
     - here's micky mouse...
-    - put your name here with userid and date and time
+    - here's goofy!
     - Marlene Roden userid: marleneandersonroden was here 3.10.2020 at 10:00 am
     - and your name here
     - and your name here...
