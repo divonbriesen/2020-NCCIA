@@ -59,6 +59,7 @@ and confirmed before the session.
   - edit RIGHT HERE in the read.me to add your name:
   - ATTENDEES (I use this with students:
     - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
+    - here's micky mouse...
     - put your name here with userid and date and time
     - and your name here
     - and your name here...
