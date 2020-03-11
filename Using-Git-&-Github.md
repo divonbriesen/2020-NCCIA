@@ -59,7 +59,7 @@ and confirmed before the session.
   - edit RIGHT HERE in the read.me to add your name:
   - ATTENDEES (I use this with students:
     - D.I. von Briesen userid: divonbriesen was here 3/10/2020 at 10:14pm
-    - Marlene Roden: userid marleneandersonroden was here 3.10.2020 at 10:00 am
+    - Marlene Roden userid: marleneandersonroden was here 3.10.2020 at 10:00 am
     - and your name here
     - and your name here...
   - save and check github desktop - notice conflicts - to fix first pull origin, then view in visual studio code, and merge. Save, commit, and push origin. 
