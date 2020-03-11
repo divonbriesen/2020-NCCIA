@@ -18,3 +18,4 @@ verified before the session.
 - create index.html file
 - create stylesheet and add an image
 - convert to images/styles folders
+- blah
