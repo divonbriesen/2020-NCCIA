@@ -1,7 +1,8 @@
 # Github Web Pages! Free Web Hosting for All!
 
-## Session 5: Thursday 9:00-10:15 Room: 224
-## Session 7: Thursdsay 2:00-3:15 Room: 154
+_Session 5: Thursday 9:00-10:15 Room: 224_
+
+_Session 7: Thursdsay 2:00-3:15 Room: 154_
 
 Come learn how to setup github pages in this hand-on workshop. You can setup a a
 default github pages repository (repo) for your account, as well as pages for your
