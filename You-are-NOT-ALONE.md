@@ -1,6 +1,10 @@
 # You are NOT ALONE!
 ## 3 practical things you can do to engage your students
-### (was: 3’s a Charm! Proven Techniques to Involve Your Students and Get to Know Your Class )
+### (was: _3’s a Charm! Proven Techniques to Involve Your Students and Get to Know Your Class_ )
+
+_Session 4: Wednesday 3:30-4:45 Room 180_
+
+_Session 8: Thursday 3:30-4:45 Room 227_
 
 If you teach online or even hybrid, you may find you're disconnected from your students.
 You don't know them, and they don't know each other - and they don't even know how
